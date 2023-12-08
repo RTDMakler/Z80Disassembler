@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Z80Dissassembler": {
+      "commandName": "Project",
+      "commandLineArgs": "call &6000"
+    }
+  }
+}
